@@ -1,0 +1,8 @@
+up
+down
+left
+right
+on
+off
+_silence_
+_unknown_
